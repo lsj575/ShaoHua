@@ -1,0 +1,7 @@
+database:
+  mysql:
+    host: '49.234.126.93'
+    port: 3306
+    dbname: 'shaohua'
+    username: 'root'
+    password: '1108'

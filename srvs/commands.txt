@@ -1,0 +1,1 @@
+protoc -I[input] path filename.proto --go_out=plugins=grpc:path

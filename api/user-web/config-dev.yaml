@@ -1,0 +1,19 @@
+name: 'user-web'
+port: 9090
+
+user_srv:
+  host: '127.0.0.1'
+  port: 50051
+
+jwt:
+  key: '12sldkj323@sdg#'
+
+smtp_server:
+  user: '768712778@qq.com'
+  password: 'ktfwncsfhsfgbfdh'
+  host: 'smtp.qq.com'
+  port: 587
+
+redis:
+  host: '49.234.126.93'
+  port: 6380
