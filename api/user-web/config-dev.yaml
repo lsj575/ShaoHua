@@ -10,7 +10,7 @@ jwt:
 
 smtp_server:
   user: '768712778@qq.com'
-  password: 'ktfwncsfhsfgbfdh'
+  password: 'ktfwncsfhsfgbfd1'
   host: 'smtp.qq.com'
   port: 587
 
