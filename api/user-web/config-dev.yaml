@@ -15,5 +15,5 @@ smtp_server:
   port: 587
 
 redis:
-  host: '49.234.126.93'
+  host: '49.234.146.93'
   port: 6380
